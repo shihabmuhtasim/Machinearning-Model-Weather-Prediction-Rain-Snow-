@@ -3,7 +3,7 @@
 
 Weather prediction is an extremely critical aspect of modern life, influencing various sectors ranging from agriculture to transportation. This is especially true in the case of extreme weather conditions such as rain or snow, which can bring commercial life to a halt. It is therefore essential to have accurate weather forecasts, as they can help individuals and organizations make informed decisions and plan their activities accordingly. This project, "Weather Prediction: Rain or Snow in Hungary," aims to address the challenge of predicting whether it will rain or snow in Hungary based on various meteorological variables.
 
-###Project Report
+### Project Report
 [project report pdf.pdf](https://github.com/shihabmuhtasim/Machinearning-Model-Weather-Prediction-Rain-Snow-/files/12446659/project.report.pdf.pdf)
 
 ![Green Minimalist Rain Sounds Music YouTube Thumbnail](https://github.com/shihabmuhtasim/Machinearning-Model-Weather-Prediction-Rain-Snow-/assets/92597456/d71fe53d-2743-4844-9140-20729d701841)
