@@ -31,7 +31,7 @@ The motivation behind this project lies in the potential positive impact on indi
 2. Add data file path to code 3rd cell.
 3. Run the main script to train and evaluate the prediction model.
 
-### Models used
+## Models used
 
 **Random Forest:**
 - Create a multitude of decision trees, each with its perspective.
