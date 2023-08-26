@@ -29,7 +29,7 @@ The motivation behind this project lies in the potential positive impact on indi
 ## Getting Started
 
 1. Clone this repository.
-2.add data file path to code 3rd cell
+2. Add data file path to code 3rd cell.
 3. Run the main script to train and evaluate the prediction model.
 
 ## Results
@@ -42,4 +42,4 @@ Special thanks to [SALMA MAAMOURI]([https://www.datascienceuniversity.com/](http
 
 ## License
 
-This project is done under supervision of Brac University lectureres 
+This project is done under supervision of Brac University lecturers 
