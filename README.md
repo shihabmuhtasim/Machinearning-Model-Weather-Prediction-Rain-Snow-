@@ -38,8 +38,8 @@ The project has developed several machine learning models for predicting rain or
 
 ## Acknowledgments
 
-Special thanks to [SALMA MAAMOURI]([https://www.datascienceuniversity.com/](https://www.kaggle.com/code/salmamaamouri/weather-prediction-regression-neural-model/input)) for providing resources for this project.
+Special thanks to [Salma Maamouri]([https://www.datascienceuniversity.com/](https://www.kaggle.com/code/salmamaamouri/weather-prediction-regression-neural-model/input)) for providing resources for this project.
 
 ## License
 
-This project is done under supervision of Brac University lecturers 
+This project is done under supervision of Brac University lecturers Sumaiya Akter & Zarin Tahia Hossain.
