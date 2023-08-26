@@ -27,10 +27,34 @@ The motivation behind this project lies in the potential positive impact on indi
 - Contributes to informed decision-making for various sectors
 
 ## Getting Started
-
 1. Clone this repository.
 2. Add data file path to code 3rd cell.
 3. Run the main script to train and evaluate the prediction model.
+
+### Models used
+
+**Random Forest:**
+- Create a multitude of decision trees, each with its perspective.
+- Gather predictions from all trees and select the most common prediction.
+- This ensemble approach helps balance out individual weaknesses and provides a robust prediction.
+
+**Gradient Boosting:**
+- Begin with an initial decision tree that may have errors.
+- Focus on correcting the mistakes made by the initial model.
+- Build subsequent models to fix errors of the previous ones, step by step.
+- This iterative process improves accuracy over time by refining predictions.
+
+**Decision Tree Classifier:**
+- Construct a tree-like model of decisions and their possible consequences.
+- Split data into subsets based on conditions that maximize information gain.
+- Reach a leaf node that represents a decision or classification.
+- Easy to interpret, useful for visualizing decision-making processes.
+
+**Naive Bayes Classifier:**
+- Based on Bayes' theorem, a probabilistic approach to classification.
+- Assumes features are conditionally independent given the class label.
+- Calculates probabilities for different classes based on features.
+- Efficient and effective for text classification and simple datasets.
 
 ## Results
 
